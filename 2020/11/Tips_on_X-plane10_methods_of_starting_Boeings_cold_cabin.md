@@ -1,5 +1,5 @@
 ### Tips on X-plane10 methods of starting Boeing's cold cabin
-by sjy 23-1-10
+by sjy 23-1-10     
 First, the captain checks the following three things    
 1. First, adjust the position of the captain's seat. Of course, there is no need to do anything on the computer when simulating flight.    
 2. Parking brake pre-position, confirm that parking brake is placed in the parking space, ensure that the aircraft will not move, do not need to do special operations.    
